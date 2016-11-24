@@ -1,4 +1,5 @@
 //comment this verilog code via vim on git bash
+//edit user.name and tryna push
 module light_toggle(l, L, R, E, clk);
 	input L, R, E, clk;
 	output [5:0]l;
